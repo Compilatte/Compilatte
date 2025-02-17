@@ -28,7 +28,7 @@ Me especializo en:
 ## 🔥 **Proyectos Destacados**
 ### 🛠 **Optimización SQL: Reducción de costos de 155 a 0.04**
 🚀 Logré optimizar una consulta SQL Server de **21s a 13s**, reduciendo costos en un **98%**.  
-📌 **Repositorio:** [Optimización SQL](https://github.com/tu-repo)  
+📌 **Repositorio:** [Optimización SQL](https://github.com/Compilatte/Optimizacion_SP_SQL)  
 
 ### 💻 **Compilatte: Educación en desarrollo**
 📚 Plataforma para enseñar programación desde cero.  

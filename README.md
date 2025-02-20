@@ -2,7 +2,7 @@
 
 💻 **Especialista en SQL Server, .NET y Optimización de Bases de Datos**  
 📊 **+8 años de experiencia en performance tuning, microservicios y sistemas escalables**  
-🚀 **Construyendo Compilatte: Plataforma de educación en desarrollo web & backend**  
+🚀 **Fundador de [Compilatte](https://compilatte.com): Plataforma de educación en desarrollo web & backend**  
 
 ---
 
@@ -17,7 +17,7 @@ Me especializo en:
 
 💡 **Mi enfoque está en reducir costos, mejorar rendimiento y automatizar procesos críticos** dentro de entornos de alto tráfico y seguridad.  
 
-**📌 Logros destacados:**  
+### 📌 **Logros destacados:**  
 - 🚀 **Reducción de costos en SQL Server de 155 a 0.04** y de **21s a 13s** en ejecución.  
 - 🏆 **Optimización de procesos críticos** en sistemas financieros y bancarios, mejorando tiempos de respuesta y estabilidad.  
 - ⚡ **Automatización con Servicios Windows & Control-M**, mejorando la gestión de datos y ejecución de procesos clave (bloqueos, depuración, integraciones).  
@@ -30,9 +30,9 @@ Me especializo en:
 🚀 Logré optimizar una consulta SQL Server de **21s a 13s**, reduciendo costos en un **98%**.  
 📌 **Repositorio:** [Optimización SQL](https://github.com/Compilatte/Optimizacion_SP_SQL)  
 
-### 💻 **Compilatte: Educación en desarrollo**
-📚 Plataforma para enseñar programación desde cero.  
-📌 **Sitio web:** *(Próximamente...)*  
+### 💻 **[Compilatte](https://compilatte.com): Educación en desarrollo**
+📚 **Plataforma para aprender programación desde cero**, con contenido estructurado para facilitar el aprendizaje de desarrollo web y backend.  
+📌 **Sitio web:** [compilatte.com](https://compilatte.com)  
 
 ---
 
@@ -49,3 +49,4 @@ Me especializo en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosFranco-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlosfrancoc/)  
 [![GitHub](https://img.shields.io/badge/GitHub-CarlosFranco-black?style=flat&logo=github)](https://github.com/Compilatte)  
 [![Correo](https://img.shields.io/badge/Email-Contacto-blue?style=flat&logo=gmail)](mailto:carlosfrancoc@compilatte.com)  
+[![Compilatte](https://img.shields.io/badge/Compilatte-Web-orange?style=flat&logo=firefox)](https://compilatte.com)  
